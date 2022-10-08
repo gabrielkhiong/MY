@@ -25,6 +25,7 @@
 ### 内容：
 控制正義的小鳥打敗偷鳥蛋的理畯
 
+## 憤怒の理畯 甘特圖
 ```mermaid
 gantt
     title 憤怒の理畯 甘特圖
@@ -64,3 +65,6 @@ gantt
     修復未知Bug     :a25, after a24, 5d
     游戲關卡更新      :a26, after a25,1d
 ```
+
+## 憤怒の理畯 PERT圖
+![](Pert_angryjonathan.png)
