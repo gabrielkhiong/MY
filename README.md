@@ -68,3 +68,5 @@ gantt
 
 ## 憤怒の理畯 PERT圖
 ![](Pert_angryjonathan.png)
+### 溫馨提示:
+#### 如看不清圖片請點擊查看大圖
