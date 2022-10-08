@@ -5,7 +5,7 @@
 |:--:|:--:|:--:|
 |*組長*|C09197364|[龔玖恩](https://github.com/gabrielkhiong)|
 |組員|C109118260|[張理畯](https://github.com/jonathantiong)|
-|組員|C109118261|[蘿義康](https://github.com/Alexlowyikang)|
+|組員|C109118261|[羅義康](https://github.com/Alexlowyikang)|
 |組員|C109151170|[李佳燕](https://github.com/Jyennn)|
 
 ---
