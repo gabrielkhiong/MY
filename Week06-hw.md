@@ -2,4 +2,5 @@
 
 
 ---
-# 功能分解圖-functional decomposition diagram
+# 功能分解圖-Functional Decomposition Diagram
+![](FDD.png "Functional Decomposition Diagram")
