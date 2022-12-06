@@ -41,7 +41,7 @@
 
 ---
 ## HW6 : 請劃出實體關係圖(entity-relationship diagram, ERD)向使用者展示內部的資料庫設計:
-![](End_Scene.png)
+![](ERD.png)
 
 
 
