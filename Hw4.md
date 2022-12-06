@@ -31,7 +31,17 @@
 
 ![](Usecase3活動圖.png)
 ---
-##  請透過分鏡板(storyboard)的形式向使用者展示初始的螢幕設計:
-![](Usecase3活動圖.png)
+##  HW5:請透過分鏡板(storyboard)的形式向使用者展示初始的螢幕設計
+![](Loading_Scene.png)
+![](GamePlay_Scene.png)
+![](Level_Select_Scene.png)
+![](Pause_Scene.png)
+![](Map_Select_Scene.png)
+![](End_Scene.png)
+
+---
+## HW6 : 請劃出實體關係圖(entity-relationship diagram, ERD)向使用者展示內部的資料庫設計:
+![](End_Scene.png)
+
 
 
